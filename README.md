@@ -1,5 +1,7 @@
 # FirstGemPraggyaBarretto
 
+[![Gem Version](https://badge.fury.io/rb/first_gem_praggya_barretto.png)](http://badge.fury.io/rb/first_gem_praggya_barretto)
+
 TODO: Write a gem description
 
 ## Installation
