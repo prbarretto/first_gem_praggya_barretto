@@ -1,6 +1,6 @@
 # FirstGemPraggyaBarretto
 
-[![Gem Version](https://badge.fury.io/rb/first_gem_praggya_barretto.png)](http://badge.fury.io/rb/first_gem_praggya_barretto)
+[![Gem Version](https://badge.fury.io/rb/first_gem_praggya_barretto.png)](http://badge.fury.io/rb/first_gem_praggya_barretto)[![Code Climate](https://codeclimate.com/github/prbarretto/first_gem_praggya_barretto.png)](https://codeclimate.com/github/prbarretto/first_gem_praggya_barretto)
 
 TODO: Write a gem description
 
